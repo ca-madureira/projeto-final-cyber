@@ -17,8 +17,8 @@ Desenvolver uma proposta técnica e estratégica que contemple:
 
 ## 📦 Arquivos Entregues
 
-- [`PROPOSTA.md`](PROPOSTA.md): Documento principal com análise, recomendações e roadmap  
-- [`diagrama.mmd`](diagrama.mmd): Diagrama Mermaid com a arquitetura de defesa em camadas  
+- [`proposta.md`](proposta.md): Documento principal com análise, recomendações e roadmap  
+- [`diagrama.md`](diagrama.md): Diagrama Mermaid com a arquitetura de defesa em camadas  
 
 ---
 
